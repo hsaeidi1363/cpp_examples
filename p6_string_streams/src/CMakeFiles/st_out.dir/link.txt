@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/st_out.dir/String_stream.cpp.o  -o st_out -rdynamic 

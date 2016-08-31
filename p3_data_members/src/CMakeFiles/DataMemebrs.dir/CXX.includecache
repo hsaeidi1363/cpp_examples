@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/i2rlab/Documents/cpp_examples/p3_data_members/src/Cat.cpp
+iostream
+-
+Cat.h
+/home/i2rlab/Documents/cpp_examples/p3_data_members/src/Cat.h
+
+/home/i2rlab/Documents/cpp_examples/p3_data_members/src/Cat.h
+
+/home/i2rlab/Documents/cpp_examples/p3_data_members/src/Data_Members.cpp
+iostream
+-
+Cat.h
+/home/i2rlab/Documents/cpp_examples/p3_data_members/src/Cat.h
+

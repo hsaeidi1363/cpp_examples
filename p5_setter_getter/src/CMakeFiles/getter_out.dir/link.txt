@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/getter_out.dir/Getter_and_setter.cpp.o CMakeFiles/getter_out.dir/Person.cpp.o  -o getter_out -rdynamic 

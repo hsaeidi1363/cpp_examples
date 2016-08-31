@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/i2rlab/Documents/cpp_examples/p5_setter_getter/src/Getter_and_setter.cpp
+iostream
+-
+Person.h
+/home/i2rlab/Documents/cpp_examples/p5_setter_getter/src/Person.h
+
+/home/i2rlab/Documents/cpp_examples/p5_setter_getter/src/Person.h
+iostream
+-
+

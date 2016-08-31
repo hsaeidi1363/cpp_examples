@@ -1,0 +1,1 @@
+/home/i2rlab/Documents/cpp_examples/p6_string_streams/src/CMakeFiles/st_out.dir

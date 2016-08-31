@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/i2rlab/Documents/cpp_examples/p2_class_definition/src/Cat.cpp
+iostream
+-
+Cat.h
+/home/i2rlab/Documents/cpp_examples/p2_class_definition/src/Cat.h
+
+/home/i2rlab/Documents/cpp_examples/p2_class_definition/src/Cat.h
+
+/home/i2rlab/Documents/cpp_examples/p2_class_definition/src/Classes.cpp
+iostream
+-
+Cat.h
+/home/i2rlab/Documents/cpp_examples/p2_class_definition/src/Cat.h
+
