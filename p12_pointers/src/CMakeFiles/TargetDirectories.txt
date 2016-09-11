@@ -1,0 +1,1 @@
+/home/hamed/Documents/cpp_examples/p12_pointers/src/CMakeFiles/pointer_and_arrays.dir

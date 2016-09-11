@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/pointer_and_arrays.dir/Pointers_and_Arrays.cpp.o  -o pointer_and_arrays -rdynamic 
