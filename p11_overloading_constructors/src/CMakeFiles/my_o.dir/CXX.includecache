@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hamed/Documents/cpp_tutorials/p11_overloading_constructors/src/Person.cpp
+Person.h
+/home/hamed/Documents/cpp_tutorials/p11_overloading_constructors/src/Person.h
+sstream
+-
+
+/home/hamed/Documents/cpp_tutorials/p11_overloading_constructors/src/Person.h
+iostream
+-
+
